@@ -5,7 +5,7 @@
 <img height="300" wedith="300" src="https://i.ytimg.com/vi/-dJ2zWgrUlE/maxresdefault.jpg"></div>
 
 <hr>
-<h1 align="center">How to Use</h1>
+<h1 align="center">How to Use:-</h1>
 
 - Open the file divisible-by-three.js in your preferred code editor.
 - Edit the array arr to include the numbers you want to check.
