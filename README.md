@@ -14,10 +14,10 @@
 - Run the command node divisible-by-three.js to execute the program.
 - The program will output all the numbers in the array that are divisible by 3 to the console.
 <hr>
-<h1 align="center">Example</h1>
+<h1 align="center">Example:-</h1>
 
 - If the array is [3, 6, 9, 12, 15, 18, 21], running the program will output:
-<h2 align="center">Copy code</h2>
+<h2 align="center">Copy code:-</h2>
 
 3<br>
 6<br>
@@ -27,7 +27,7 @@
 18<br>
 21<br>
 <hr>
-<h1 align="center">License</h1>
+<h1 align="center">License:-</h1>
 
 - This program is licensed under the MIT License.
 <hr>
