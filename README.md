@@ -1,4 +1,4 @@
-<h1 align="center"> JavaScript Program to Print All the Numbers Divisible by 3 in an Array:-</h1>
+<h1 align="center"> JavaScript Program to Print All the Numbers Divisible by 3 in an Array💤:-</h1>
 
 - This is a simple JavaScript program that takes an array of numbers and prints all the numbers in the array that are divisible by 3.
 <div align="center" >
