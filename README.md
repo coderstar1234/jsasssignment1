@@ -17,7 +17,7 @@
 <h1 align="center">Example🧾:-</h1>
 
 - If the array is [3, 6, 9, 12, 15, 18, 21], running the program will output:
-<h2 align="center">Copy code:-</h2>
+<h2 align="center">Copy code🧾:-</h2>
 
 3<br>
 6<br>
